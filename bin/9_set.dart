@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 /// dokumentasi belajar tipe data set di dart
 void main() {
   /**
