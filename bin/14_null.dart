@@ -1,4 +1,4 @@
-/// dokumentasi belajar switch di dart
+/// dokumentasi belajar null di dart
 void main() {
   /**
    * null == data kosong
