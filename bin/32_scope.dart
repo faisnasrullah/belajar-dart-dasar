@@ -18,6 +18,6 @@ void main() {
 }
 
 void contoh() {
-  // ini tidak akan jalan
-  sayHello();
+  // ini takan error
+  // sayHello();
 }
