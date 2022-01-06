@@ -1,5 +1,3 @@
-import '22_function.dart';
-
 /// dokumentasi belajar Scope di dart
 
 void main() {
